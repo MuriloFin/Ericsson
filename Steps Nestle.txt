@@ -1,0 +1,5 @@
+1- Conectar Oculus no Note.
+2- Abrir cmd, ipconfig, conferir ipv4 da rede sem fio.
+3- Abrir o txt na raiz do oculus, e trocar pelo ip obtido acima (se nao deixar salvar, copiar esse txt para desktop, e alterar, deletar o antigo na raiz do oculus, e colar o novo.
+4- Conectar o note e o oculus na internet TP-Link com senha 70273373
+5- Desconectar o oculus do pc, e abrir o app Cloud XR
